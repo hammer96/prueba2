@@ -2,9 +2,10 @@
 <html lang="en">
 <head>
 	<meta charset="UTF-8">
-	<title>hammer</title>
+	<title>soy hammer</title>
 </head>
 <body>
 	<header>cabecera de hammer</header>
+	<footer>la piecera de hammer</footer>
 </body>
 </html>
